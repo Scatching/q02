@@ -18,6 +18,22 @@ int main()
   */
 
   //PUT YOUR CODE BELOW THIS LINE
+  for(int matrix[row] [column])
+  {
+    cout<<"Row "<<[row]<<"Column "<<[column]<<"is "<<value<<endl;
+    while(value==[row]+[column])
+    }
+
+
+
+
+
+
+
+
+
+
+
   //that prints each element of the matrix in the
   //following format:
   //Row _ Column _ is _
